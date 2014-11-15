@@ -4,12 +4,12 @@ Community Harvest
 Team Members
 ------------
 
+* Can Kisagun
 * Carly Franca
 * John Iacona
 * Jonathan Biderman
 * Quinault Childs
 * Teagan Lehrmann
-* Can Kisagun
 
 Description
 -----------
